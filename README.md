@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction-with-Retention-Analysis-and-Customer-Segmentation-on-Telecom-Dataset
+Exploratory Data Analysis (EDA) on 7,043 customer records to identify attrition drivers.  Tech Stack :  Python, Pandas, NumPy, Matplotlib, Seaborn  Key Findings: Churn Rate: ~26.5% total churn (1,869 churned vs. 5,174 retained). Risk Factor: High churn in early tenure months.  Drivers: Competitor offers &amp; better devices.  
